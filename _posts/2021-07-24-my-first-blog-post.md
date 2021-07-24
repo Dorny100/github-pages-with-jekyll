@@ -1,3 +1,7 @@
+---
+title: "Welcome to my blog"
+date: 2021-07-24
+---
 I have always loved music, and wanted to learn piano from as early as I could remember. My parents could not afford to buy one, but generously bought me a classical guitar when I was 11 years old. This started my love for guitar.
 I learned clasical guitar alongside music theory and loved the idea of making music. However, as a teenager, classical music was not what interested me. At 16 I gave up the classical pursuit and started playing acoustic guitar.
 I developed reasonable skill as an acoustic guitar player. I bought a Yamaha acoustic guitar at 16, and then when I was about 29 years old, got my dream acoustic guitar, a handbuilt Irish guitar by George Lowden.
