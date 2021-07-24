@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "My Guitar History Over a LifeTIme"
 date: 2021-07-24
 ---
 I have always loved music, and wanted to learn piano from as early as I could remember. My parents could not afford to buy one, but generously bought me a classical guitar when I was 11 years old. This started my love for guitar.
